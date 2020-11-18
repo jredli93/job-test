@@ -8,6 +8,7 @@ const Posts = () => {
     const [posts, setPosts] = useState(customPosts)
     const [user, setUser] = useState(customUser)
 
+    // Lists logged in users data with userId = 1
     let currentUser = user.users.find(user => user.userId === 1)
 
     let allPosts = posts.posts.map(item => {

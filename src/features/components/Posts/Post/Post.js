@@ -7,7 +7,6 @@ const Post = props => {
     const { title, description, likesCount, postComments } = props.data;
 
     const likeHandler = () => {
-        console.log('stiglo')
         setLikeBtn(!likeBtn);
     }    
 

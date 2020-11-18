@@ -1,0 +1,25 @@
+{
+    "comments":[
+        {
+            "commentId":1,
+            "text":"Text of comment",
+            "date": "22/10/1993",
+            "userId": 1,
+            "postId":1
+        },
+        {
+            "commentId":2,
+            "text":"Second Comment text",
+            "date": "25/07/1995",
+            "userId": 1,
+            "postId":1
+        },
+        {
+            "commentId":3,
+            "text":"3 Text of comment",
+            "date": "22/10/1993",
+            "userId": 2,
+            "postId":3
+        }
+    ]
+}
