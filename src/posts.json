@@ -1,0 +1,28 @@
+{
+    "posts": [
+         {
+            "id":1,
+            "title":"Great News!",
+            "description":"11111 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+            "likesCount":3,
+	        "userId": 1,
+            "postComments":["Text of comment","Second Comment text"]
+        },
+        {
+            "id": 2,
+            "title":"Great News 2!",
+            "description": "22222Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+            "likesCount": 2,
+            "userId": 1,
+            "postComments":["2 Text of comment","2 Second Comment text"]
+        },
+        {
+            "id":3,
+            "title":"Great News 3!",
+            "description": "33333 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+            "likesCount":1,
+            "userId": 2,
+            "postComments":["3 Text of comment"]
+        }
+    ] 
+}

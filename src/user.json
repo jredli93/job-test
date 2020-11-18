@@ -1,0 +1,10 @@
+{
+    "users" : [
+        {
+            "userId":1,
+            "userName":"Jovan",
+            "likedPostsSum": 5,
+            "commentsCount": 2  
+        }
+    ]
+}

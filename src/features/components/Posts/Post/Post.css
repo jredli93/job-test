@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.single-post {
+    margin-top: 2rem;
+    padding: 1.5rem;
+}
+
+.single-post .check {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.single-post .check:hover {
+    cursor: pointer;
+}
